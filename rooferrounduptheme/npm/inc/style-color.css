@@ -1,0 +1,228 @@
+html body {
+	color: #4f4f4f;
+}
+
+html ::selection {
+  background: #009688;
+}
+html ::-webkit-selection {
+  background: #009688;
+}
+html ::-moz-selection {
+  background: #009688;
+}
+html ::-o-selection {
+  background: #009688;
+}
+html ::-ms-selection {
+  background: #009688;
+}
+
+html blockquote:before {
+  color: #009688;
+}
+
+html a:hover{
+	color: #009688;
+}
+html a:focus{color: #009688;}
+
+html .checkmark li i{color: #009688;}
+
+html .backtotop{background:#009688;}
+
+html .top-btn a{background: #009688;}
+
+html #cp-header a.navbar-brand:hover h2{color: #009688;}
+html #cp-header .navbar-nav li.current-menu-item a{color: #009688;}
+html #cp-header .navbar-nav li a:hover{color: #009688;}
+html #cp-header .navbar-nav li:hover ul{background: #009688;}
+
+html .nav-social ul li a:hover{background: #009688;}
+
+@media(min-width: 992px){
+	html #cp-header.active .navbar-nav li a{color: #7a7a7a}
+	html #cp-header.active .navbar-nav li.current-menu-item a,html #cp-header.active .navbar-nav li a:hover{color: #009688;}
+	html .nav-social ul li a{background: #009688;}
+}
+html .banner-form  .acf-button{background:  #009688;}
+html .banner-form  .acf-button:hover{color: #009688;}
+
+html .global-btn{background: #009688;}
+html .global-btn:hover{border-color: #009688;color: #009688;}
+
+html .global-btn.btn-solid{border: solid 2px #009688;}
+html .global-btn.btn-solid:hover{background: #009688; }
+
+html .testimonial-section .info-outer h2{
+	color: #009688;
+}
+
+html .testimonial-section .owl-dots .owl-dot.active span, html .owl-dots .owl-dot:hover span {
+    background: #009688;
+    border: 2px solid #009688;
+}
+
+html .our-blog-date {
+  background: #009688;
+}
+
+html .blog-item h3 a:hover{color: #009688;}
+html .section_bg{background: #009688;}
+html .cp-title h2::after {
+    background-color: #009688;
+}
+html .cp-title h3::after {
+    background-color: #009688;
+}
+
+html .services-section .services-info .icon-box{
+	color: #009688;
+}
+
+html .services-section .services-info .info-block:hover{
+	color:#009688;
+}
+html .services-info.style-two .icon-box:before{
+	border:2px solid #009688;
+}
+
+html .services-section .services-info .info-block:hover .icon-box:before{
+	border-color:#009688;	
+}
+
+html .services-section .services-info .info-block:hover a{
+	color:#009688;
+}
+
+
+html .pricing-section-item .number-lists:before{border-top: solid 2px #009688;border-left: solid 2px #009688;}
+html .pricing-section-item .number-lists:after{border-bottom: solid 2px #009688; border-right: solid 2px #009688;}
+
+html .project-section .owl-dots .owl-dot.active span, html .owl-dots .owl-dot:hover span {
+    background: #009688;
+    border: 2px solid #009688;
+}
+
+html .bgcolor{background:#009688;}
+html .our-blog-date {
+  background: #009688;
+}
+html .blog-date {
+  color: #009688;
+}
+html .blog-item h3 a:hover{color: #009688;}
+
+html .wp-pagenavi a:hover,html .wp-pagenavi span.current{background: #009688!important;border-color: #009688!important;}
+
+html .modal-close{background: #009688;}
+
+
+html .form-control:focus {
+    box-shadow: 0 0 0 0.2rem #009688;
+}
+
+
+html .widget ul li a:hover{color: #009688;}
+html .widget ul li span{color: #009688;}
+
+html .widget .widget-title:after{border-top: solid 2px #009688;}
+
+html .widget .tagcloud a:hover{background: #009688;}
+
+html .comments-area .submit{background: #009688;}
+
+html .comments-area .submit:hover{background: #009688;}
+
+html .comment-metadata a:hover,
+
+html .comment-metadata a:focus,
+
+html .pingback .comment-edit-link:hover,
+
+html .pingback .comment-edit-link:focus {
+
+	color: #009688;
+
+}
+html .side-post-entry h4 a:hover{color: #009688;}
+
+html .nf-field-container .nf-field-element input[type="text"]:focus,
+html .nf-field-container .nf-field-element input[type="email"]:focus,
+html .nf-field-container .nf-field-element input[type="password"]:focus,
+html .nf-field-container .nf-field-element input[type="tel"]:focus,
+html .nf-field-container .nf-field-element input[type="number"]:focus,
+html .nf-field-container .nf-field-element select:focus,
+html .nf-field-container .nf-field-element textarea:focus{
+	border-color:#009688;
+}
+
+
+html .field-wrap button, html .field-wrap input[type=button], html .field-wrap input[type=submit]{background: #009688;border: solid 1px #009688;}
+html .field-wrap button:hover, html .field-wrap input[type=button]:hover, html .field-wrap input[type=submit]:hover{border-color: #009688;color: #009688;}
+
+html .acf-map:after{background: #00968894;}
+
+html .col-box{background-color: #009688;}
+
+html .counter{color: #009688;}
+
+html .widget-lists{color: #009688;}
+
+html .gallery-section .filters li i{display: none;}
+html .gallery-section .filters li:hover,
+html .gallery-section .filters li.active{
+	background: #009688;
+	border-color: #009688;
+}
+
+
+html .contact-page .row{background: #009688; }
+
+html .contact-page  .acf-button{background:  #009688;}
+html .contact-page  .acf-button:hover{color: #009688;border-color: #009688;}
+
+html .banner-form  .acf-button:hover{color: #009688;border-color: #009688;}
+
+
+/**@media 991px**/@media ( max-width: 991px ){
+
+	html #cp-header .navbar-nav li.current-menu-item a{color: #009688;}
+	html #cp-header .navbar-nav i.toggle-down{background: #009688;}
+	html #cp-header .navbar-nav ul li a:hover{color:#009688;}
+
+
+}/**end @media 991px**/
+
+html h1,html h2,html h3,html h4,html h5,html h6 {
+	color:#111111;
+}
+html a{
+	color: #3c4452;
+}
+html .top-info{color: #3c4452;}
+html .top-btn a:hover{background: #3c4452;}
+html #cp-header{background: #111111;}
+
+html #footer{background: #111111;}
+
+html .blog-item h3 a{color: #3c4452;}
+
+html .modal-close:hover{background: #3c4452;}
+
+html .cp-services h4 a{color: #3c4452;}
+
+html .global-btn.light{color: #3c4452}
+
+html .global-btn.btn-solid.light:hover{color: #3c4452;}
+
+
+html .global-btn.btn-solid{color: #009688;border: solid 2px #009688;}
+html .global-btn.btn-solid:hover{background: #009688;}
+
+
+html .blog-item h3 a{color: #3c4452;}
+
+html .section_bgdark{background: #3c4452;}
+
+html .pricing-section-item .number-lists{background: #3c4452;}

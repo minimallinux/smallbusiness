@@ -1,0 +1,23 @@
+/*
+Theme Name: Small Business Child Theme
+Author: P A McGowan
+Version: 1.0
+Author URI: http://webmobapps.com/
+Template: rooferrounduptheme
+Description: Completely custom Wordpress theme. This theme is built using the Bootstrap framework and has custom dynamic functions, fields, and content boxes on each page. Use this theme to generate leads, prospects, and sales for any business.
+Tags: flexible-content, accessibility-ready, custom-colors, custom-logo, editor-style, featured-images, theme-options, translation-ready
+*/
+/*
+primary:#009688
+dark:#00675b
+light:#52c7b8
+*/
+.qta-section.cp-section.bgcolor {
+background:#00675b;
+}
+.section_bgdark {
+background: #262626!important;
+}
+.global-btn {
+border-radius: 3px;
+}
